@@ -1,6 +1,20 @@
 [
-    {
-        "description": "food",
-        "amount": 2.0
-    }
+  {
+    "id": 2629,
+    "description": "tennis",
+    "amount": 30.0,
+    "date": "2026-08-30 21:45:05"
+  },
+  {
+    "id": 8349,
+    "description": "groceries",
+    "amount": 5.99,
+    "date": "2026-08-30 21:46:29"
+  },
+  {
+    "id": 5432,
+    "description": "dinner",
+    "amount": 4.5,
+    "date": "2026-08-30 21:47:26"
+  }
 ]
