@@ -1,0 +1,15 @@
+/home/takudzwa/Documents/projects/expense_tracker/bin/Debug/net8.0/ExpenseTracker
+/home/takudzwa/Documents/projects/expense_tracker/bin/Debug/net8.0/ExpenseTracker.deps.json
+/home/takudzwa/Documents/projects/expense_tracker/bin/Debug/net8.0/ExpenseTracker.runtimeconfig.json
+/home/takudzwa/Documents/projects/expense_tracker/bin/Debug/net8.0/ExpenseTracker.dll
+/home/takudzwa/Documents/projects/expense_tracker/bin/Debug/net8.0/ExpenseTracker.pdb
+/home/takudzwa/Documents/projects/expense_tracker/obj/Debug/net8.0/ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+/home/takudzwa/Documents/projects/expense_tracker/obj/Debug/net8.0/ExpenseTracker.AssemblyInfoInputs.cache
+/home/takudzwa/Documents/projects/expense_tracker/obj/Debug/net8.0/ExpenseTracker.AssemblyInfo.cs
+/home/takudzwa/Documents/projects/expense_tracker/obj/Debug/net8.0/ExpenseTracker.csproj.CoreCompileInputs.cache
+/home/takudzwa/Documents/projects/expense_tracker/obj/Debug/net8.0/ExpenseTracker.sourcelink.json
+/home/takudzwa/Documents/projects/expense_tracker/obj/Debug/net8.0/ExpenseTracker.dll
+/home/takudzwa/Documents/projects/expense_tracker/obj/Debug/net8.0/refint/ExpenseTracker.dll
+/home/takudzwa/Documents/projects/expense_tracker/obj/Debug/net8.0/ExpenseTracker.pdb
+/home/takudzwa/Documents/projects/expense_tracker/obj/Debug/net8.0/ExpenseTracker.genruntimeconfig.cache
+/home/takudzwa/Documents/projects/expense_tracker/obj/Debug/net8.0/ref/ExpenseTracker.dll
