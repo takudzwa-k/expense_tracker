@@ -3,7 +3,7 @@
 # 💰 Expense Tracker
 
 A fast, colorful command-line expense tracker built in C# — track spending,
-set monthly budgets, and export your data, all from the terminal. (Made with AI)
+set monthly budgets, and export your data, all from the terminal. 
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet)
 ![C#](https://img.shields.io/badge/C%23-12.0-239120?style=flat-square&logo=csharp)
